@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:    deMon
-" Maintainer:  Juan Diego Samaniego Rojas <https://github.com/jdsr1>
+" Maintainer:  JDSR <https://github.com/jdsr1>
 " Last Change: 2023 Jul 02
 " Remark:      This file complies with deMon's five-character-keyword rule.
 
